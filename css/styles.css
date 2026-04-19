@@ -600,6 +600,10 @@ p {
         padding: 120px 0;
     }
 
+    .section.hero {
+        padding: 188px 0;
+    }
+
     .features-list-sub-item {
         font-weight: 400;
     }
@@ -852,6 +856,7 @@ p {
 
 .footer-logo-box {
     display: flex;
+    justify-content: center;
     margin-bottom: 16px;
 }
 
@@ -994,6 +999,10 @@ p {
 
     .footer-logo {
         margin: 0;
+    }
+
+    .footer-logo-box {
+        justify-content: flex-start;
     }
 
     .footer-social {
