@@ -378,7 +378,7 @@ p {
 .mobile-social-list {
     margin-top: 48px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     gap: 40px;
 }
